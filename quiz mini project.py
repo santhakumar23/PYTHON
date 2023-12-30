@@ -1,5 +1,5 @@
 print("Welcome to quiz game in computer")
-playing=input("Do you want play? yes or no")
+playing=input("Do you want play? ")
 if playing.lower() !="yes":
     quit()
 else:
